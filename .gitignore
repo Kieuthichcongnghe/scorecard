@@ -1,0 +1,8 @@
+# Không đưa dữ liệu CSV dung lượng lớn lên GitHub
+DATA/*.csv
+output/*.csv
+
+# File tạm
+.ipynb_checkpoints/
+__pycache__/
+*.pyc

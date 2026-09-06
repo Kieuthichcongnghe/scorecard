@@ -1,0 +1,1 @@
+SELECT * from FEATURE_TEST_FINAL ftf 
